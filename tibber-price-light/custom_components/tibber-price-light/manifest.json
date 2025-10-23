@@ -1,0 +1,11 @@
+{
+  "domain": "tibber_price_light",
+  "name": "Tibber Preis-Ampel",
+  "documentation": "https://github.com/dein-username/tibber_price_light",
+  "issue_tracker": "https://github.com/dein-username/tibber_price_light/issues",
+  "dependencies": [],
+  "codeowners": ["@dein-username"],
+  "requirements": [],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling"
+}
