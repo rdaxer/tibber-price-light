@@ -24,7 +24,7 @@ Die Tibber Preis-Ampel erstellt einen Sensor, der deinen aktuellen Strompreis be
 2. Klicke auf **"Integrationen"**
 3. Klicke auf die **drei Punkte** oben rechts
 4. Wähle **"Benutzerdefinierte Repositories"**
-5. Füge diese URL hinzu: `https://github.com/DEIN-USERNAME/tibber-price-light`
+5. Füge diese URL hinzu: `https://github.com/rdaxer/tibber-price-light`
 6. Wähle Kategorie: **"Integration"**
 7. Klicke auf **"Hinzufügen"**
 8. Suche nach **"Tibber Preis-Ampel"** und installiere sie
