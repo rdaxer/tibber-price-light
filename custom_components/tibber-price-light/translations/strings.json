@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Tibber Preis-Ampel einrichten",
+        "description": "Wähle den Tibber Strompreis-Sensor aus, den du überwachen möchtest.",
+        "data": {
+          "tibber_sensor": "Tibber Strompreis-Sensor"
+        }
+      }
+    },
+    "error": {
+      "sensor_not_found": "Der ausgewählte Sensor wurde nicht gefunden.",
+      "no_sensor_selected": "Bitte wähle einen Sensor aus."
+    },
+    "abort": {
+      "already_configured": "Diese Integration ist bereits konfiguriert."
+    }
+  }
+}
